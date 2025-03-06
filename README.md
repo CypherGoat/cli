@@ -1,4 +1,4 @@
-# CypherGoat CLI <img src="./img/logo.svg" alt="CypherGoat Logo" width="40" style="vertical-align: middle;">
+<img src="./img/logo.svg" alt="CypherGoat Logo" width="40" style="vertical-align: middle;"># CypherGoat CLI
 
 ![Screenshot](./img/cg.png)
 
