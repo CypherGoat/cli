@@ -1,4 +1,6 @@
-# CypherGoat CLI
+# CypherGoat CLI <img src="./cg/logo.svg" alt="CypherGoat Logo" width="30" style="vertical-align: middle;">
+
+![Screenshot](./img/cg.png)
 
 Install cg-cli on your linux machine: `curl https://cyphergoat.com/cli.sh | sudo sh`
 
