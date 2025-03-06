@@ -230,6 +230,7 @@ This command uses the CypherGoat API to make the exchange.`,
 		detailsTable.Append([]string{keyStyle("Transaction ID:"), tx.Id})
 		detailsTable.Append([]string{keyStyle("Deposit Address:"), tx.Address})
 		detailsTable.Append([]string{keyStyle("Exchange Provider:"), selected.ExchangeName})
+		detailsTable.Append([]string{keyStyle("Track on cyphergoat.com:"), "https://cyphergoat.com/transaction/" + tx.CGID})
 
 		// Add tracking link if available
 		if tx.Track != "" {
